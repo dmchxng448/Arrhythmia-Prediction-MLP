@@ -27,11 +27,14 @@ This model was designed for the **2025 Inter-University Health Data and AI Inqui
   Contributed by Sadman Sakib and his team. Contains ECG features extracted from multiple labeled arrhythmia types.
 
 ### Run on Google Colab:
+- Download the notebook from the repo or view via the link below.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/drive/1x2xsWJDH2qf1m-Gc7OtGDaoRFZVNXf66?usp=sharing)
 
 ### Moving Forward:
-- TBD...
+- Incorporate additional ECG databases to enhance generalizability.
+- Develop more complex models capable of identifying additional arrhythmias, such as atrial fibrillation and bradycardia.
+- Conduct comparative analysis between ECG and Holter datasets to analyze differences in arrhythmia detection.
 
 ### Acknowledgements:
 - MIT Laboratory and Beth Isreal Hospital for Computational Physiology and PhysioNet
